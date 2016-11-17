@@ -1,6 +1,6 @@
 from __future__ import print_function, division
 
-INPUT_LAYERS = ['Data', 'ImageData', 'Input']
+INPUT_LAYERS = ['Data', 'ImageData', 'Input', 'Python']
 # Layers that only support elwise
 ELWISE_LAYERS = ['Deconvolution']
 # Layers that support parameters
